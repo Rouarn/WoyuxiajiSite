@@ -1,4 +1,4 @@
-# 我与夏季 (woyuxiaji-ms-client)
+# 我与夏季 (woyuxiaji-site)
 
 一个基于 Vue 3 + TypeScript + Vite 构建的现代化个人主页展示系统。本项目旨在提供流畅的用户体验、优雅的 UI 设计以及易于维护的内容管理方式。
 
